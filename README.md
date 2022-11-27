@@ -2,6 +2,8 @@
 
 ### Sou estudante de Engenhria da Computação na USP, Técnico em Eletronica e em Automação Industrial pela ETEC, amo Ciencia da Computação. Ultimamente tenho estudado C, C++, Java, Assembly(for Processador-ICMC).
 
+![](https://komarev.com/ghpvc/?username=ISS2718&color=81a1c1)
+
 ### Estudando Atualmente:
  - Estrutura da Dados 3 (Estrutura de Arquivos e Grafos);
  - Programação Orientada a Objetos;
