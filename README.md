@@ -1,6 +1,6 @@
 ## Olá, eu sou Isaac 🐌
 
-### Sou estudante de Engenhria da Computação na USP, Técnico em Eletronica e em Automação Industrial pela ETEC, amo Ciencia da Computação. Ultimamente tenho estudado C, C++, Java, Assembly(for Processador-ICMC).
+### Sou estudante de Engenharia da Computação na USP (4° Período), Técnico em Eletrônica e em Automação Industrial pela ETEC, amo Ciência da Computação. Ultimamente tenho estudado C, C++, Java, Assembly(for Processador-ICMC).
 
 ![](https://komarev.com/ghpvc/?username=ISS2718&color=81a1c1)
 
