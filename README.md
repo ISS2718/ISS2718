@@ -1,4 +1,4 @@
-## Olá 👋, eu sou Isaac
+## Olá, eu sou Isaac 🐌
 
 ### Sou estudante de Engenhria da Computação na USP, Técnico em Eletronica e em Automação Industrial pela ETEC, amo Ciencia da Computação. Ultimamente tenho estudado C, C++, Java, Assembly(for Processador-ICMC).
 
