@@ -39,15 +39,24 @@
 <a href="https://learn.microsoft.com/pt-br/windows/wsl/about" target="_blank" rel="noreferrer"> <img src="./img/WSL_TUX.png" alt="gcc" width="35" height=""/> </a>
 <a href="https://gcc.gnu.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> </a>
 
----
+## Estatísticas do meu Perfil:
+<div>
+ <a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api?username=ISS2718&show_icons=true&count_private=true&hide_title=true&theme=nord&locale=pt-br"/>
+ </a>
+</div>
+<div>
+ <a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iss2718&theme=nord&fire=FA4944&locale=pt-br"/>
+ </a>
+</div>
+<div>
+ <a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iss2718&show_icons=true&locale=pt-br&layout=compact&theme=nord&hide=MakeFile,Stata&langs_count=10&hide_title=true&card_width=445"/>
+ </a>
+</div>
 
-### Estatísticas do meu Perfil:
-
-<a href="https://github.com/ISS2718" target="_blank" rel="noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=ISS2718&show_icons=true&count_private=true&hide_title=true&theme=nord&locale=pt-br"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=iss2718&theme=nord&fire=FA4944&locale=pt-br"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iss2718&show_icons=true&locale=pt-br&layout=compact&theme=nord&hide=MakeFile,Stata&langs_count=10&hide_title=true&card_width=445"/></a>
-
----
-
-### Contato:
+## Contato:
 
 <div>
 <a href="https://www.linkedin.com/in/isaac-soares-76a111197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
