@@ -2,7 +2,7 @@
 
 ## Eu sou o Isaac 🐌, algumas pessoas me chamam de Newton.
 
- - Sou estudante de Engenharia da Computação (4° Período) na
+ - Sou estudante de Engenharia da Computação (6° Período) na
 
     <a href="https://www5.usp.br" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/www5.usp.br/storage/usp-2018.png?fit=450%2C66&ssl=1" width="450" height="66"/></a>
  
@@ -11,25 +11,31 @@
     <a href="https://www.cps.sp.gov.br/etec/" target="_blank" rel="noreferrer"><img src="https://fatweb.s3.amazonaws.com/vestibulinhoetec/assets/img/layout/logotipo-etec.png" width="128" height="52"/></a>
 
 ## Estudando Atualmente:
- - Estrutura da Dados 3 (Estrutura de Arquivos e Grafos):
-    - Arquivo de dados;
-    - Arquivo de indices;
-        - Arvore B.
-    - Grafos;
-    - Trabalhos em C.
- - Programação Orientada a Objetos:
-    - Java;
-    - C++;
-    - UML.
- - Arquitetura e Organização de Computadores:
-    - Assembly;
-    - Organização e Arquiterura do Processador-ICMC.
- - Gestão de Sistemas da Informação (Extra Curricular)
- - Outras matérias do 4° Período de Engenharia de Computação:
-    - Cálculo 4;
-    - Sinais e Sistemas;
-    - Eletromagnetismo.
- - Linguagens e Ferramentas:
+ - Disciplinas Relacionadas a Computação:
+   - Redes de Computadores
+
+   - Sistemas Computacionais Distribuidos
+
+   - Base de Dados
+   
+   
+   - Modelagem Orientada a Objetos
+
+ - Disciplinas Relacionadas a Elétrica:
+   - Circuitos Eletrônicos II
+
+   - Aplicação de Microprocessadores
+
+   - Laboratório de Circuitos Eletrônicos
+
+   - Processadores Digitais de Sinais e Aplicações
+
+ - Outras disciplinas de Engenharia da Computação (do 6° Período):
+   - Princípios de Economia
+
+   - Administração e Empreendedorismo
+
+- Linguagens e Ferramentas:
 
 <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://devdocs.io/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> </a>
@@ -38,6 +44,7 @@
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/pt-br/windows/wsl/about" target="_blank" rel="noreferrer"> <img src="./img/WSL_TUX.png" alt="gcc" width="35" height=""/> </a>
 <a href="https://gcc.gnu.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> </a>
+<a href="androidstudio.com" target="_blank" rel="noreferrer"> <img src="./img/Android_Studio.png" alt="AndroidStudio" width="40" height="40"/></a>
 
 ## Estatísticas do meu Perfil:
 <div>
