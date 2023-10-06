@@ -4,7 +4,7 @@
 
  - Sou estudante de Engenharia da Computação (6° Período) na
 
-    <a href="https://www5.usp.br" target="_blank" rel="noreferrer"><img src="https://i0.wp.com/www5.usp.br/storage/usp-2018.png?fit=450%2C66&ssl=1" width="450" height="66"/></a>
+    <a href="https://www5.usp.br" target="_blank" rel="noreferrer"><img src="https://www5.usp.br/storage/usp-2018.png" width="450" height="66"/></a>
  
  - Sou técninco em Eletrônica e em Automação Industrial pela
 
