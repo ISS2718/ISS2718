@@ -44,7 +44,7 @@
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/pt-br/windows/wsl/about" target="_blank" rel="noreferrer"> <img src="./img/WSL_TUX.png" alt="gcc" width="35" height=""/> </a>
 <a href="https://gcc.gnu.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/> </a>
-<a href="androidstudio.com" target="_blank" rel="noreferrer"> <img src="./img/Android_Studio.png" alt="AndroidStudio" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> <img src="./img/Android_Studio.png" alt="AndroidStudio" width="40" height="40"/></a>
 
 ## Estatísticas do meu Perfil:
 <div>
