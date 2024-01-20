@@ -17,9 +17,10 @@
    - Sistemas Computacionais Distribuidos
 
    - Base de Dados
-   
-   
+
    - Modelagem Orientada a Objetos
+
+   - Computação Gráfica 
 
  - Disciplinas Relacionadas a Elétrica:
    - Circuitos Eletrônicos II
