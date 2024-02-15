@@ -56,7 +56,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ISS2718&layout=compact&hide=Stata,MakeFile&langs_count=10&theme=nord&card_width=320" />
 </a>
 <a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISS2718&theme=dra&fire=FA4944&locale=pt-br&card_width=803"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISS2718&theme=nord&fire=FA4944&locale=pt-br&card_width=803"/>
 </a>
 
 ## Contato:
