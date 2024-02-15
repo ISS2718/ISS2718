@@ -48,26 +48,17 @@
 <a href="https://developer.android.com/studio/intro" target="_blank" rel="noreferrer"> <img src="./img/Android_Studio.png" alt="AndroidStudio" width="40" height="40"/></a>
 
 ## Estatísticas do meu Perfil:
-<div>
- <a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISS2718&show_icons=true&count_private=true&hide_title=true&theme=nord&locale=pt-br"/>
- </a>
-</div>
-<div>
- <a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iss2718&theme=nord&fire=FA4944&locale=pt-br"/>
- </a>
-</div>
-<div>
- <a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iss2718&show_icons=true&locale=pt-br&layout=compact&theme=nord&hide=MakeFile,Stata&langs_count=10&hide_title=true&card_width=445"/>
- </a>
-</div>
+
+<a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ISS2718&theme=nord" />
+</a>
+<a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ISS2718&layout=compact&hide=Stata,MakeFile&langs_count=10&theme=nord&card_width=320" />
+</a>
+<a href="https://github.com/ISS2718" target="_blank" rel="noreferrer">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISS2718&theme=dra&fire=FA4944&locale=pt-br&card_width=803"/>
+</a>
 
 ## Contato:
 
-<div>
 <a href="https://www.linkedin.com/in/isaac-soares-76a111197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
