@@ -2,7 +2,7 @@
 
 ## Eu sou o Isaac 🐌, algumas pessoas me chamam de Newton.
 
- - Sou estudante de Engenharia da Computação (6° Período) na
+ - Sou estudante de Engenharia da Computação (7° Período) na
 
     <a href="https://www5.usp.br" target="_blank" rel="noreferrer"><img src="img/usp-2018.png" width="450" height="66"/></a>
  
@@ -12,29 +12,20 @@
 
 ## Estudando Atualmente:
  - Disciplinas Relacionadas a Computação:
-   - Redes de Computadores
-
-   - Sistemas Computacionais Distribuidos
-
-   - Base de Dados
-
-   - Modelagem Orientada a Objetos
-
-   - Computação Gráfica 
+   - Computação de Alto Desempenho
+   - Desenvolvimento Web e Mobile
+   - Engenharia de Software
+   - Inteligência Artificial
+   - Teoria de Computação e Compiladores
+   - Sisteams Embarcados
 
  - Disciplinas Relacionadas a Elétrica:
-   - Circuitos Eletrônicos II
+   - Principios de Comunicação
+   - Fundamentos de Microeletrônica
+   - Projetos de Circuitos Integrados Analógicos
 
-   - Aplicação de Microprocessadores
-
-   - Laboratório de Circuitos Eletrônicos
-
-   - Processadores Digitais de Sinais e Aplicações
-
- - Outras disciplinas de Engenharia da Computação (do 6° Período):
-   - Princípios de Economia
-
-   - Administração e Empreendedorismo
+ - Outras disciplinas de Engenharia da Computação (do 7° Período):
+   - Gestão Ambiental
 
 - Linguagens e Ferramentas:
 
